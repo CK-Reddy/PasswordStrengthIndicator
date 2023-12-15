@@ -1,6 +1,6 @@
 # PasswordStrengthIndicator
 * Empower your users with the Password Strength Indicator!
-* This innovative input box, crafted with HTML, CSS, and JavaScript, dynamically assesses the strength of entered passwords.
+* This innovative input box, crafted with HTML and CSS dynamically assesses the strength of entered passwords.
 * Watch as the password field's border color transforms to reflect the strength level, providing instant feedback.
 * Whether weak, moderate, or strong, users can now gauge their password security effortlessly.
 * Elevate your web forms with this sleek and functional Password Strength Indicator for a secure and user-friendly experience.
